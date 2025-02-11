@@ -12,7 +12,7 @@
 ### 🚀 About Me  
 - 🔭 I’m currently working on **Transport Management System and some personal web application**  
 - 🌱 I’m currently learning **GO, React Native**
-- 👯 I’m looking to collaborate on nodejs,nest ,react,react native ...etc** 
+- 👯 I’m looking to collaborate on Angular, C#(.NET), GO , nodejs, nest ,react native ...etc** 
 - 🏗️ I’m also working on:  
   - [Membership Management](https://abizeermembership.com/)  
   - [AI ASMR Voice Generator | Custom Text to Speech](https://www.asmrtts.com/)  
@@ -48,9 +48,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirubhel&theme=radical" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirubhel&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
 
 ---
 
