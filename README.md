@@ -28,38 +28,24 @@ Interim Project Manager
 📍 DAFTech Social ICT Solutions | Addis Ababa, Ethiopia
 📅 Dec 2024 – Present (3 months)
 
-As a Temporary Project Manager at DAFTech Social ICT Solutions, I have been responsible for overseeing project planning, execution, and delivery within defined timelines. My role involves coordinating cross-functional teams, managing resources, and ensuring alignment with client expectations. This opportunity has allowed me to enhance my leadership and organizational skills while driving successful project outcomes in a dynamic environment.
-
 Lead Backend Developer
 📍 DAFTech Social ICT Solutions | Addis Ababa, Ethiopia
 📅 Jan 2024 – Present (1 year 2 months)
-
-As a Lead Backend Developer, I oversee the design, development, and optimization of scalable backend systems. My role involves leading a team of developers, architecting efficient solutions, and ensuring the seamless integration of services. I work extensively with modern technologies to build robust APIs, manage databases, and enhance system performance. These responsibilities have allowed me to refine my technical expertise and leadership skills while delivering impactful solutions across diverse projects.
-
 Skills: C# · .NET Core · Node.js
 
 Full-Stack Developer
 📍 DAFTech Social ICT Solutions | Addis Ababa, Ethiopia
 📅 Jan 2022 – Jan 2024 (2 years 1 month)
-
-As a Full Stack Developer, I have been involved in building robust web applications using C# and .NET Core for backend development, alongside Node.js for scalable server-side solutions. On the frontend, I have worked with Angular and React to create responsive and user-friendly interfaces. These experiences have provided me with a solid foundation in full stack development and the ability to contribute effectively to end-to-end project implementations.
-
 Skills: C# · .NET Core · Node.js · Angular · React.js
 
 Junior Backend Developer
 📍 DAFTech Social ICT Solutions | Addis Ababa, Ethiopia
 📅 Sep 2021 – Jan 2022 (5 months)
-
-As a Junior Backend Developer, I contributed to various projects by assisting in the development of backend systems and ensuring efficient database integration. These experiences helped me build a strong foundation in backend development and database design while learning and growing through hands-on project involvement.
-
 Skills: Database Design · Web Development · Software Development · Mobile Application Development · C# · .NET Core
 
 Junior Frontend Developer
 📍 DAFTech Social ICT Solutions | Addis Ababa, Ethiopia
 📅 Feb 2021 – Sep 2021 (8 months)
-
-As a Junior Frontend Developer, I worked on creating dynamic and user-friendly web applications using AngularJS and ReactJS. My role involved developing responsive user interfaces and ensuring seamless integration with backend systems. These experiences strengthened my skills in frontend development while gaining valuable hands-on experience with modern JavaScript frameworks.
-
 Skills: AngularJS · React.js
 
 
