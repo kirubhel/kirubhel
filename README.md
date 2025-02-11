@@ -25,8 +25,8 @@
 ## Experience
 
 Interim Project Manager
-📍 DAFTech Social ICT Solutions | Addis Ababa, Ethiopia
-📅 Dec 2024 – Present (3 months)
+🎓 📍 DAFTech Social ICT Solutions | Addis Ababa, Ethiopia 🎓
+🎓📅 Dec 2024 – Present (3 months)🎓
 
 Lead Backend Developer
 📍 DAFTech Social ICT Solutions | Addis Ababa, Ethiopia
