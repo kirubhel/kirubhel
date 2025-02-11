@@ -5,22 +5,23 @@
   <img src="https://komarev.com/ghpvc/?username=kirubhel&label=Profile%20views&color=0e75b6&style=flat" alt="kirubhel" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kirubhel&theme=onedark&margin-w=10" alt="kirubhel trophies"/>
-  </a>
-</p>
+
 
 ---
 
 ### 🚀 About Me  
-- 🔭 I’m currently working on **Transport Management System**  
-- 🌱 I’m currently learning **GO, React Native**  
+- 🔭 I’m currently working on **Transport Management System and some personal web application**  
+- 🌱 I’m currently learning **GO, React Native**
+- 👯 I’m looking to collaborate on nodejs,nest ,react,react native ...etc** 
 - 🏗️ I’m also working on:  
   - [Membership Management](https://abizeermembership.com/)  
   - [AI ASMR Voice Generator | Custom Text to Speech](https://www.asmrtts.com/)  
 
 ---
+
+## Education
+🎓🎓🎓 Graduated 🎓 Computer Science at HiLCoE School of Computer Science and Technology 🎓
+
 
 ### 📫 Connect with me  
 <p align="left">
