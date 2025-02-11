@@ -7,20 +7,13 @@
 
 ---
 
-## 🚀 About Me  
-🔭 **Currently Working On:**  
-- **Transport Management System**  
-- **Personal Web Applications**  
-
-🌱 **Currently Learning:**  
-- **GO & React Native**  
-
-👯 **Looking to Collaborate On:**  
-- **Angular, C# (.NET), GO, Node.js, NestJS, React Native, and more!**  
-
-🏗️ **Projects I'm Working On:**  
-- 🎫 [Membership Management](https://abizeermembership.com/)  
-- 🎙️ [AI ASMR Voice Generator | Custom Text to Speech](https://www.asmrtts.com/)  
+### 🚀 About Me  
+- 🔭 **Currently working on **Transport Management System and some personal web applications**  
+- 🌱 **Currently Learning: **GO, React Native**
+- 👯 **Looking to Collaborate On: Angular, C# (.NET), GO, Node.js, NestJS, React Native, and more** 
+- 🏗️ **Projects I'm Working On:**   
+  - [Membership Management](https://abizeermembership.com/)  
+  - [AI ASMR Voice Generator | Custom Text to Speech](https://www.asmrtts.com/) 
 
 ---
 
